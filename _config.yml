@@ -1,20 +1,20 @@
-title:            Balzac
+title:            ajmfulcher
 tagline:          A beautiful theme.
 description:      Describe your website.
 #Comment out url when working locally to resolve base urls correctly
-url: http://jekyll.gtat.me
+url: http://ajmfulcher.me.uk
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           Andrew Fulcher
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco        
-  github:         coletownsend       
-  instagram:      ctrunsthis     
-  dribbble:       coletownsend
-  disqus:         balzac
+  bio:            "Nerd."
+  email:          andrew@ajmfulcher.me.uk
+  twitter:        ajmfulcher        
+  github:         ajmfulcher       
+#  instagram:      ctrunsthis     
+#  dribbble:       coletownsend
+#  disqus:         balzac
   # Plug in your disqus shortname!
   
 
@@ -31,7 +31,7 @@ links:
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/London
 future:      true
 pygments:    true
 markdown:    kramdown
